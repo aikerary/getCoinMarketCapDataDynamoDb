@@ -8,11 +8,11 @@ Adicionalmente añadimos una política para darle acceso entero a la dynamo db
 
 <img title="" src="/imgs/second.png" alt="" width="574" data-align="center">
 
-Ahora vamos a añadir un trigger para que se ejecute cada 6 horas.
+Ahora vamos a añadir una HTTP Api Gateway para poder hacer peticiones a nuestra lambda function.
 
 <img title="" src="/imgs/third.png" alt="" width="459" data-align="center">
 
-Y así quedaría configurada finalmente nuestra lambda function
+Y así quedaría configurada finalmente nuestra lambda function.
 
 <img title="" src="/imgs/last.png" alt="" width="541" data-align="center">
 
